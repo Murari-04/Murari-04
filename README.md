@@ -127,16 +127,18 @@ A collection of learning resources, practice notebooks and implementations cover
 
 ---
 
-## 📊 GitHub Statistics
+
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murari-04&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murari-04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Murari-04&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Murari-04&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Murari-04&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=Murari-04&theme=tokyonight&hide_border=true" width="70%" />
 </p>
+
 
 ---
 
