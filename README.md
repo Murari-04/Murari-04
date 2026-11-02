@@ -149,7 +149,12 @@ A collection of learning resources, practice notebooks and implementations cover
   <a href="mailto:lingamurari02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- Add your LinkedIn and portfolio URLs here -->
+  <a href="https://www.linkedin.com/in/linga-murari/">
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://murari-04.github.io/Murari-04.portfolio.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
