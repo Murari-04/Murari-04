@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img width="2172" height="724" alt="Linga Murari Data Science Banner" src="https://github.com/user-attachments/assets/fa9d46f4-7443-417d-9401-2b80606a65e1" />
+   <img width="2172" height="724" alt="Linga Murari Data Science Banner" src="https://github.com/user-attachments/assets/fa9d46f4-7443-417d-9401-2b80606a65e1" />
 </p>
 
 <h2 align="center">👋 Hi, I'm Linga Murari!</h2>
@@ -149,12 +149,7 @@ A collection of learning resources, practice notebooks and implementations cover
   <a href="mailto:lingamurari02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/linga-murari/">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://murari-04.github.io/Murari-04.portfolio.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+  <!-- Add your LinkedIn and portfolio URLs here -->
 </p>
 
 ---
