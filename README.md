@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="Linga Murari Data Science Banner" src="https://github.com/user-attachments/assets/e267aaec-3abb-4119-813e-ec58ba4bad73" />
 # 👋 Hi, I'm Murari!
 
 ### Data Science | Machine Learning | Generative AI
