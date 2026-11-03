@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech graduate in Computer Science from **Malla Reddy University, Hyderabad**.
+- 🎓 B.Tech graduate in Computer Science & Engineering (Specialization in Internet Of Things) from **Malla Reddy University, Hyderabad**.
 - 💻 Interested in Data Science, Machine Learning and Artificial Intelligence.
 - 🧠 Hands-on experience building machine learning and AI-based projects.
 - 📊 Interested in data analysis, predictive analytics and data visualization.
