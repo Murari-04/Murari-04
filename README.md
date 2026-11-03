@@ -3,9 +3,13 @@
    <img width="2172" height="724" alt="Linga Murari Data Science Banner" src="https://github.com/user-attachments/assets/fa9d46f4-7443-417d-9401-2b80606a65e1" />
 </p>
 
-<h2 align="center">👋 Hi, I'm Linga Murari!</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Data+Analytics+Enthusiast;Machine+Learning+Enthusiast;Generative+AI+%7C+LLM+Applications;AI+Agents+%7C+Multi-Agent+Systems;Turning+Data+Into+Insights+%26+Ideas+Into+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-<h3 align="center">Computer Science Graduate | Aspiring Data Scientist | AI & ML Enthusiast</h3>
+<h2 align="center">👋 Hi, I'm Linga Murari!</h2>
 
 <p align="center">
   Passionate about building intelligent applications, extracting meaningful insights from data, and solving real-world problems using Machine Learning and Generative AI.
@@ -16,7 +20,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech graduate in Computer Science & Engineering (Specialization in Internet Of Things) from **Malla Reddy University, Hyderabad**.
-- 💻 Interested in Data Science, Machine Learning and Artificial Intelligence.
+- 💻 Interested in Data Science, Data Analysis, Machine Learning and Artificial Intelligence.
 - 🧠 Hands-on experience building machine learning and AI-based projects.
 - 📊 Interested in data analysis, predictive analytics and data visualization.
 - 🤖 Exploring Generative AI, LLMs, RAG, AI Agents and LLM Guardrails.
